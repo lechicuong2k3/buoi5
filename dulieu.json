@@ -1,0 +1,123 @@
+[
+    {
+      "maSV": "V202100546",
+      "tenSV": "Lê Chí Cường",
+      "tuoi": 18,
+      "gioiTinh": "Nam",
+      "ngaySinh": "30/1/2003",
+      "diemToan": 10,
+      "diemLy": 9,
+      "diemHoa": 8,
+      "diemAnh": 7,
+      "lop": "Computer Science"
+    },
+    {
+      "maSV": "V202103543",
+      "tenSV": "Phạm Anh Quân",
+      "tuoi": 18,
+      "gioiTinh": "Nam",
+      "ngaySinh": "8/8/2003",
+      "diemToan": 7,
+      "diemLy": 6,
+      "diemHoa": 5,
+      "diemAnh": 3,
+      "lop": "Electrical Engineering"
+    },
+    {
+      "maSV": "V202100467",
+      "tenSV": "Trần Quốc Bảo",
+      "tuoi": 19,
+      "gioiTinh": "Nam",
+      "ngaySinh": "5/8/2002",
+      "diemToan": 7,
+      "diemLy": 5,
+      "diemHoa": 6,
+      "diemAnh": 9,
+      "lop": "Electrical Engineering"
+    },
+    {
+      "maSV": "V202100478",
+      "tenSV": "Châu Minh Khải",
+      "tuoi": 18,
+      "gioiTinh": "Nam",
+      "ngaySinh": "5/8/2003",
+      "diemToan": 5,
+      "diemLy": 8,
+      "diemHoa": 3,
+      "diemAnh": 2,
+      "lop": "Computer Science"
+    },
+    {
+      "maSV": "V202109203",
+      "tenSV": "Vũ Duy Tùng",
+      "tuoi": 18,
+      "gioiTinh": "Nam",
+      "ngaySinh": "8/8/2003",
+      "diemToan": 7,
+      "diemLy": 9,
+      "diemHoa": 8,
+      "diemAnh": 7,
+      "lop": "Computer Science"
+    },
+    {
+      "maSV": "V202100789",
+      "tenSV": "Trần Huy Hoàng Anh",
+      "tuoi": 19,
+      "gioiTinh": "Nam",
+      "ngaySinh": "22/7/2002",
+      "diemToan": 5,
+      "diemLy": 8,
+      "diemHoa": 7,
+      "diemAnh": 9,
+      "lop": "Electrical Engineering"
+    },
+    {
+      "maSV": "V202100234",
+      "tenSV": "Phạm Gia Khuyến",
+      "tuoi": 18,
+      "gioiTinh": "Nam",
+      "ngaySinh": "12/10/2003",
+      "diemToan": 8,
+      "diemLy": 9,
+      "diemHoa": 10,
+      "diemAnh": 8,
+      "lop": "Mechanical Engineering"
+    },
+    {
+      "maSV": "V202100357",
+      "tenSV": "Đào Đức Thịnh",
+      "tuoi": 18,
+      "gioiTinh": "Nam",
+      "ngaySinh": "5/4/2003",
+      "diemToan": 3,
+      "diemLy": 6,
+      "diemHoa": 2,
+      "diemAnh": 6,
+      "lop": "Computer Science"
+    },
+    {
+      "maSV": "V202100256",
+      "tenSV": "Đặng Đình Đăng Khoa",
+      "tuoi": 18,
+      "gioiTinh": "Nam",
+      "ngaySinh": "18/10/2003",
+      "diemToan": 4,
+      "diemLy": 10,
+      "diemHoa": 3,
+      "diemAnh": 7,
+      "lop": "Computer Science"
+    },
+
+    {
+      "maSV": "V202100987",
+      "tenSV": "Phan Hoang",
+      "tuoi": 18,
+      "gioiTinh": "Nam",
+      "ngaySinh": "13/4/2003",
+      "diemToan": 8,
+      "diemLy": 7,
+      "diemHoa": 4,
+      "diemAnh": 9,
+      "lop": "Mechanical Engineering"
+    }
+  ]
